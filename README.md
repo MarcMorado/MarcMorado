@@ -8,7 +8,7 @@
         primarily focusing on crafting user-friendly experiences with React.js.<br>
     </i><br>
     <i>
-💻 I have honed my skills in the vast world of front-end development, particularly reveling in the intricacies of Three.js, which has allowed me to render impressive 3D graphics and create immersive web experiences.<br>
+💻 I have honed my skills in the vast world of front-end development, particularly reveling in the intricacies of Three.js, which has allowed me to render impressive 3D graphics and create immersive web experiences.
 
 🚀 Additionally, I am proficient in Next.js, helping me build server-side rendering and static site generation for React web applications. My toolkit also includes modern JavaScript, HTML5, CSS3, ensuring I am prepared to tackle any challenges and deliver high-quality, performance-optimized, and scalable projects.<br>
 
@@ -28,11 +28,11 @@
 </div>
 </p>
 
-### Technologies & Frameworks & Languajes
+### Technologies, Frameworks & Languajes
 
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/wervlad)
-[![Next](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/wervlad)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/wervlad)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/wervlad)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/wervlad)
-[![Three.js](https://img.shields.io/badge/clojure-black?style=for-the-badge&logo=clojure)](https://github.com/wervlad)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/MarcMorado)
+[![Next](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/MarcMorado)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/MarcMorado)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/MarcMorado)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/MarcMorado)
+[![Three.js](https://img.shields.io/badge/clojure-black?style=for-the-badge&logo=clojure)](https://github.com/MarcMorado)
