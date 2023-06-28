@@ -8,8 +8,9 @@
         primarily focusing on crafting user-friendly experiences with React.js.<br>
     </i><br>
     <i>
-🚀 Additionally, I am proficient in Next.js, helping me build server-side rendering and static site generation for React web applications. My toolkit also includes modern JavaScript, HTML5, CSS3, ensuring I am prepared to tackle any challenges and deliver high-quality, performance-optimized, and scalable projects.<br>
-
+💻
+I have honed my skills in the vast world of front-end development, particularly reveling in the intricacies of Three.js, which has allowed me to render impressive 3D graphics and create immersive web experiences.
+        
 🚀 Additionally, I am proficient in Next.js, helping me build server-side rendering and static site generation for React web applications. My toolkit also includes modern JavaScript, HTML5, CSS3, ensuring I am prepared to tackle any challenges and deliver high-quality, performance-optimized, and scalable projects.<br>
 
 🌐 Being a Front-End Developer isn't only about the languages and libraries, though. I'm also adept at using a variety of tools and software, like Git for version control, npm for package management, Webpack for bundling my applications, and Babel for keeping up with the latest JS syntax.<br>
