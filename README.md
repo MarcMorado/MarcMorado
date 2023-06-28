@@ -31,11 +31,6 @@
 </div>
 </p>
 
-### Technologies, Frameworks & Languajes
+### My Skills
 
-[![JavaScript]([https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript](https://thumbnail.imgbin.com/0/8/11/imgbin-javascript-logo-html-javascript-logo-1gJt6c05WzKXQuybWYgXvaTYk_t.jpg))](https://github.com/MarcMorado)
-[![Next](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/MarcMorado)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/MarcMorado)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/MarcMorado)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/MarcMorado)
-[![Three.js](https://img.shields.io/badge/clojure-black?style=for-the-badge&logo=clojure)](https://github.com/MarcMorado)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
