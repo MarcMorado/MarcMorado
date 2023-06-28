@@ -33,4 +33,4 @@
 
 ### My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,next,html,css,threejs, git, zbrush)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,next,html,css,threejs, git)](https://skillicons.dev)
