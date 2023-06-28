@@ -18,13 +18,14 @@
 
 🤝 I believe in open-source as the best way to learn and grow as a developer. Feel free to check out my repositories, contribute, or get in touch!<br>
 </i>
+<div align="center">
 <a href="https://www.linkedin.com/in/marc-morado/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 </a>
 <a href="mailto:marcmp96@gmail.com">
 <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
 </a>
-
+</div>
 </p>
 
 ### Technologies & Frameworks & Languajes
